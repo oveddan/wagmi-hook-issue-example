@@ -6,3 +6,6 @@
 2. `pnpm dev`
 
 Open http://localhost:3000 in browser.
+
+This issue comes up:
+![image](./issue.png)
